@@ -1,0 +1,21 @@
+body{
+	background-color: #53F6EE;
+    padding:0;
+    margin:50px auto;
+    text-align:center;
+    font:100% Verdana;
+ }
+
+ p{
+ 	font-size: 400%;
+ }
+
+ a{
+ 	font-size: 250%;
+ 	color: #0925D8;
+ }
+
+ span{
+ 	color: #330395;
+ }
+
